@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Poppins;
+}
+.books_header{
+    text-align: center;
+    background-color: rgb(46, 46, 202);
+}
+.books_header h1{
+    color: white;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.menu a:hover{
+    color: black
+}
+
+.about{
+    text-align: center;
+    background-color: rgb(56, 20, 20);
+    color: white;
+}
+
+.about h2{
+    margin-top: 0;
+}
+
+.about img{
+    width: 250px;
+    height: 250px;
+}
+
+
+.books h2{
+    text-align: center;
+    background-color: rgb(46, 46, 202);
+    margin-top: 0;
+    color: white;
+    margin-bottom: 0;
+}
+
+.book-list{
+    background-color: rgb(56, 20, 20);
+    text-align: center;
+    align-items:stretch;
+    color: white;
+    
+    
+}
+
+.book-list h3{
+    margin-top: 0;
+    padding: 10px;
+}
+
+.book-list p{
+    margin-bottom: 0;
+    padding: 10px;
+}
+
+.book-list img{
+    border: 1px;
+    border-radius: 10px;
+}
+
+.book-list img:hover{
+    border: 2px;
+    border-radius: 30px;
+    border-color: white;
+    border-style:double;
+}
+    
+
+.contact{
+    background-color: rgb(46, 46, 202);
+    color: white;
+    padding: 15px;
+}
+
+.contact h2{
+    margin-top: 0;
+    padding: 10px;
+}
+
+.contact p {
+    margin-bottom: 0;
+    padding: 15px;
+}
+
+.contact a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.contact a:hover{
+    color: black;
+}
